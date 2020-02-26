@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">learningSqlite</string>
+    <string name="drop_table">DROP TABLE IF EXISTS</string>
+    <string name="jeroeme_test">Jeroeme Test</string>
+</resources>
